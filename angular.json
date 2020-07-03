@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hackernews"
+    }
+  },
+  "defaultProject": "hackernews",
+  "cli": {
+    "analytics": false
+  }
 }
