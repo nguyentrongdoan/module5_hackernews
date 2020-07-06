@@ -10,6 +10,9 @@ export class LikesComponent implements OnInit {
   likeThis() {
     this.likes++;
   }
+  disLikes() {
+    this.likes--;
+  }
 
   constructor() { }
 
